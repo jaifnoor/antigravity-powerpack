@@ -1,5 +1,8 @@
 # 🚀 Launch Marketing Kit — Copy & Paste Posts
 
+Your product sales landing page is LIVE at:
+👉 **https://jaifnoor.github.io/antigravity-powerpack/**
+
 Use these pre-written posts to announce your product on X (Twitter), Reddit, and Discord.
 
 ---
@@ -27,7 +30,7 @@ Use these pre-written posts to announce your product on X (Twitter), Reddit, and
 > 📐 GSD Spec-Driven Templates
 > 🧠 Anti-Hallucination Prompt Cheatsheet
 > 
-> Grab it for $9 USDT here: [INSERT YOUR LINK / WEBSITE URL] ⚡
+> Grab it for $9 USDT here: https://jaifnoor.github.io/antigravity-powerpack/ ⚡
 
 ---
 
@@ -45,7 +48,7 @@ Use these pre-written posts to announce your product on X (Twitter), Reddit, and
 > 2. GSD Feature Spec & Architecture templates for structured step-by-step builds.
 > 3. Anti-hallucination prompt rules.
 > 
-> It's available for $9 USDT. Check it out here: [INSERT YOUR LINK / WEBSITE URL]
+> It's available for $9 USDT. Check it out here: https://jaifnoor.github.io/antigravity-powerpack/
 > 
 > Would love your feedback or any custom rules you use in your workflow!
 
@@ -57,4 +60,4 @@ Use these pre-written posts to announce your product on X (Twitter), Reddit, and
 > Want to make your AI coding assistant (Cursor, Roo Code, Antigravity) 5x faster and bug-free?
 > 
 > Get 5 Framework Rulesets + GSD Spec Templates + Prompt Cheatsheets for just $9 USDT.
-> 🚀 Link: [INSERT YOUR LINK / WEBSITE URL]
+> 🚀 Link: https://jaifnoor.github.io/antigravity-powerpack/
